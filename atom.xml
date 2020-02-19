@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://2neml3.coding-pages.com</id>
+    <title>终末的少女旅行</title>
+    <updated>2020-02-19T04:14:21.311Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://2neml3.coding-pages.com"/>
+    <link rel="self" href="https://2neml3.coding-pages.com/atom.xml"/>
+    <subtitle>Dream as if you will live foeavar</subtitle>
+    <logo>https://2neml3.coding-pages.com/images/avatar.png</logo>
+    <icon>https://2neml3.coding-pages.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, 终末的少女旅行</rights>
+    <entry>
+        <title type="html"><![CDATA[语思]]></title>
+        <id>https://2neml3.coding-pages.com/yu-si/</id>
+        <link href="https://2neml3.coding-pages.com/yu-si/">
+        </link>
+        <updated>2020-02-18T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>主要想记录一些印象比较深的台词，欢迎补充</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>主要想记录一些印象比较深的台词，欢迎补充</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于《chronobox》的一些感受]]></title>
+        <id>https://2neml3.coding-pages.com/guan-yu-lesslesschronoboxgreatergreater-de-yi-xie-gan-shou/</id>
+        <link href="https://2neml3.coding-pages.com/guan-yu-lesslesschronoboxgreatergreater-de-yi-xie-gan-shou/">
+        </link>
+        <updated>2020-02-18T05:50:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>起因是因为前几天一个学弟给我安利了《Kingexit》这款游戏，在发现大王的身份是古伊奈后。。突然发现，病娇真的好萌（<em>好像觉醒了什么奇怪的数学</em>）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>起因是因为前几天一个学弟给我安利了《Kingexit》这款游戏，在发现大王的身份是古伊奈后。。突然发现，病娇真的好萌（<em>好像觉醒了什么奇怪的数学</em>）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://2neml3.coding-pages.com/hello-gridea/</id>
+        <link href="https://2neml3.coding-pages.com/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
